@@ -3,8 +3,10 @@ BIPOC
 Bloomberg
 callout
 Callout
+docx
 dropdown
 GDSCN
+github
 Gmail
 impactful
 mentorship
@@ -15,6 +17,7 @@ OTTR
 ottrpal
 preprint
 reproducibility
+Rmd
 underserved
 Workspaces
 Workspace's
