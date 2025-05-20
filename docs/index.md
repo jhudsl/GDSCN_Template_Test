@@ -1,6 +1,6 @@
 ---
 title: "GDSCN: Course Name "
-date: "August, 2022"
+date: "May, 2025"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
